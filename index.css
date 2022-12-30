@@ -43,8 +43,27 @@ button {
     background: #2C2891;
 }
 
+#increment-btn:hover {
+    background: #7E08F7;
+}
+
+#increment-btn:active {
+    /* shrink a bit */
+    width: 190px;
+    background: #28196D;
+}
+
 #save-btn {
     background: #1C7947;
+}
+
+#save-btn:hover {
+    background: #67DB5C;
+}
+
+#save-btn:active {
+    width: 190px;
+    background: #147B6F;
 }
 
 #save-el {
